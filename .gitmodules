@@ -1,3 +1,6 @@
 [submodule "Assignment2"]
 	path = Assignment2
 	url = git@github.com:COMP551-2022/Assignment2.git
+[submodule "Assignment3"]
+	path = Assignment3
+	url = git@github.com:COMP551-2022/Assignment3.git
